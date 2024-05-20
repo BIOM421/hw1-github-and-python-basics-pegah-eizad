@@ -1,6 +1,6 @@
 ## Info:
 
-Name: Pegah Eizadkhah
-Email: pegah.eizadkhah@colostate.edu
-Github ID: pegah-eizad
+Name: Pegah Eizadkhah <br>
+Email: pegah.eizadkhah@colostate.edu <br>
+Github ID: pegah-eizad <br>
 ![Alt text](sasha.png)
